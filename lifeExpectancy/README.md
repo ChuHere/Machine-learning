@@ -1,0 +1,1 @@
+The given task is to predict life expectancy of various countries in a given year. Regression task - Random Forest, Ridge Regression and AdaBoost. 
