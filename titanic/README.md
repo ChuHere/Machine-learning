@@ -1,1 +1,1 @@
-Project to get familiar with machine learning basics. Binary classification task - Decision Tree and KNN algorithm. Predict if a Titanic passenger would survive based on available data.
+Project to get familiar with machine learning basics. Binary classification task - Decision Tree and KNN algorithm. Predict if a Titanic passenger would survive based on available data. This project is done in Jupyter notebook with Python (sklearn).
