@@ -1,0 +1,1 @@
+This project was a university assignemnt with the goal to familiarize ourselves with neural networks and Pytorch. The task is multiclass image classification (modified Fashion Mnist dataset). In this project we will experiment with feedforward and convolutional neural networks + related methods.
